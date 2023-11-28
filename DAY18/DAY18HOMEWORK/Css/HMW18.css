@@ -1,0 +1,25 @@
+h1{
+   color: red;
+   font-size: 50px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: italic;
+   text-decoration-line: underline;
+   text-decoration-color: black;
+   text-decoration-style: wavy;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    text-decoration-line: overline;
+    text-decoration-color: chartreuse;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
