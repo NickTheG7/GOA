@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://images5.alphacoders.com/133/1338712.png);
+
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+
+
+#header{
+    background-color: lightgray;
+    border-radius: 18px;
+    width: 180px;
+    text-align: center;
+    margin-left: 630px;
+
+}
+#maintext{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:red;    
+}
+#firstimage{
+    display: flex;
+    height: 380px;
+    border-radius: 50px;
+    margin-left: 24%;
+    margin-top: 5%;
+    box-shadow: 10px;
+    
+
+}
+#santatext{
+    color: wheat;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    stroke-width: 10px;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-bottom: 30%;
+    margin-left: 39%;
+
+}
+#sec1{
+    color: white;
+    width: 600px;
+    border-radius: 20px;
+    margin-left: 27.5%;
+}
